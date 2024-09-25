@@ -13,7 +13,7 @@ let playingSong = false;
 let songs = [{
         name: 'Hanggang Tingin',
         path: './songs/HanggangTingin.mp3',
-        image: '/images/kamikazee.jpg',
+        image: './images/kamikazee.jpg',
     },
     {
         name: 'Ikot',
